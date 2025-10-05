@@ -34,4 +34,5 @@ Do not change styles or HTML layout in this task. Change only `main.js` file.
 
 Expected result:
 
+
 ![Preview](./src/images/reference.png)
